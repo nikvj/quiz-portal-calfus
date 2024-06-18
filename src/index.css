@@ -5,6 +5,9 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  font-family: 'Anek Malayalam', sans-serif;
+  background: linear-gradient(90.04deg, #1d7b87 0.03%, #63bdc9 99.96%);
+  color: #11052c;
 }
 
 code {
